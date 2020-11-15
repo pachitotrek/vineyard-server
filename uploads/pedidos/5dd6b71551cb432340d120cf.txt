@@ -1,0 +1,13 @@
+
+                            Sistema de Registro
+                            Comanda No 26
+
+                            Hora de Pedido
+                            11:11:01
+
+                            Plan Viñedo
+
+                            No de Personas
+                            2
+
+                            Persona Vegetariana<br>
